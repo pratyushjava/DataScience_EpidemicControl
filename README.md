@@ -1,3 +1,3 @@
 ﻿# DataScience_EpidemicControl  
-NS_final_poster.pdf
+![Alt text](NS_final_poster.pdf?raw=true "Optional Title")
 
