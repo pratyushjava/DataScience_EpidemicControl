@@ -1,3 +1,3 @@
 ﻿# DataScience_EpidemicControl
-[embed]http://github.com/pratyushjava/DataScience_EpidemicControl/blob/master/NS_final_poster.pdf[/embed]
+[embed]DataScience_EpidemicControl/NS_final_poster.pdf[/embed]
 
