@@ -1,21 +1,3 @@
-"""
-Usage:
-    command:
-    Epidemic_simulator.py -bjrch [--delay=<days>] [--nsim=<n>] airport.txt routes.txt
-
-Flags:
-    -b: betweenness strategy
-    -j: jaccard strategy
-    -c: clustering coefficent strategy.
-    -r: random strategy
-    -h: hub removal strategy
-
-
-
-Option:
-    --delay=<days>  days after exposure to apply edge removal strategy
-    --nsim=<n>      number of simulations 
-"""
 
 import copy
 import getopt
